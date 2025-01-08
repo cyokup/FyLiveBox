@@ -50,7 +50,7 @@
 #### 安装使用教程
 
 一般情况下建议您直接下载发行版进行安装使用，源码方式会相当复杂。
-[JoDanmu弹幕助手Windows版桌面安装包](https://gitee.com/duihaoopen/jo-danmu/releases/tag/0.1.0)
+[飞鹰弹幕助手Windows版桌面安装包](https://gitee.com/duihaoopen/jo-danmu/releases/tag/0.1.0)
 
 界面如下：
 

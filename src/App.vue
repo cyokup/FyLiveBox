@@ -21,7 +21,7 @@ const dialogVisible = ref(false)
 const messageList = ref([
   {
     id: '1',
-    name: '小号',
+    name: '飞鹰',
     msg: '欢迎使用飞鹰弹幕助手，输入直播地址开始安静看直播，解析弹幕，没有刷礼物功能，所以理性看播，不要乱消费',
   },
 ])
@@ -32,7 +32,7 @@ let socketClient: SocketCli
 const liveInfo = ref({
   uid: '888888',
   status: 0, // 直播间状态4是已结束
-  title: 'Jo直播标题',
+  title: '直播标题',
   name: '飞鹰',
   roomId: '888888',
   avatar: Logo,
