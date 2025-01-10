@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "jo-danmu",
+    "productName": "feiying",
     "version": "0.1.0"
   },
   "tauri": {
@@ -21,7 +21,7 @@
       "active": true,
       "category": "Utility",
       "copyright": "Duihao Inc.",
-      "shortDescription": "一个直播间弹幕识别Ai小工具",
+      "shortDescription": "抖音弹幕采集工具",
       "longDescription": "抖音直播间弹幕实时感知小工具，可识别互动消息、点赞、关注、打赏等动作和具体内容",
       "deb": {
         "depends": []
@@ -34,7 +34,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "cn.duihao.jodanmu",
+      "identifier": "cn.duihao.feiying",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
