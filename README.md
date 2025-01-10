@@ -17,7 +17,7 @@
 mac 电脑提示：已损坏,无法打开,你应该将它移到废纸篓，执行下面这条命名即可解决：
 
 ```
-sudo xattr -r -d com.apple.quarantine /Applications/feiyingLiveBox.app
+sudo xattr -r -d com.apple.quarantine /Applications/FyLiveBox.app
 ```
 
 界面如下：
